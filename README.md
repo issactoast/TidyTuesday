@@ -4,7 +4,7 @@
 
 <div align="center">
 
-:loudspeaker: [Portfolio][Portfolio]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
+&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:art: [Behance][Behance]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
 
 </div>
 
@@ -17,8 +17,13 @@ Quick Link
 [Email]:mailto:info@data-vizard.com
 [Blog]:https://cedricscherer.netlify.com/
 [Portfolio]:https://data-vizard.com/
+[Behance]:https://www.behance.net/cedscherer
 
-My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday), a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem. The project was founded in 2018 by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.  
+My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday), a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful and/or beautiful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem. The project was founded in 2018 by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.  
+
+> **DISCLAIMER:**  
+❌ no Illustrator or Photoshop was harmed during the making of these visualizations.  
+💯 certified ggplot quality.
 
 Feedback is very welcome via [Twitter](https://twitter.com/cedscherer) or [mail](mailto:cedricphilippscherer@gmail.com).
 
@@ -65,23 +70,188 @@ Feedback is very welcome via [Twitter](https://twitter.com/cedscherer) or [mail]
   - 2020/12 [🏢 The Office on IMDb](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_12)
   - 2020/14 [🍺 Beer Production](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_14)
   - 2020/15 [🚵 Tour de France History](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_15)
+  - 2020/16 [🎙️ Best Hip-Hop Songs of All Time](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_16)
+  - 2020/18 [🎭️ Broadway Musicals (RTFM Edition)](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_18)
+  - 2020/19 [🐻 Animal Crossing](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_19)
+  - 2020/20 [🌋 Volcano Eruptions](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_20)
+  - 2020/21 [🏐 Beach Volleyball](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_21)
+  - 2020/22 [🍹 50 Most Popular Cocktails 2020](https://github.com/Z3tt/TidyTuesdaytree//master/plots/2020_22)
+  - 2020/23 [🔴 Marble Races](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_23)
+  - 2020/25 [🕊️ American Slavery and Juneteenth](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_25)
+  - 2020/26 [🦌️ Northern Caribou Movement](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_26)
+  - 2020/27 [🦸 Uncanny X-Men](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_27)
+  - 2020/28 [☕️ Coffee Ratings](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_28)
+  - 2020/29 [👨‍🚀 Astronaut Database](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_29)
+  - 2020/30 [😿 Australian Animal Outcomes](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_30)
+  - 2020/31 [🐧 Palmer Penguins](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_31)
+  - 2020/32 [⚡ European Energy](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_32)
+  - 2020/33 [⚔️ Avatar: The Last Airbender](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_33)
+  - 2020/34 [🌱 Extinct Plants](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_34)
+  - 2020/36 [🌾 Global Crop Yields (Shiny App)](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_36)
+  - 2020/37 [👯 FRIENDS Transcripts](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_37)
+  - 2020/38 [💊 Children Public Health Efforts](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_38)
+  - 2020/41 [🏀 NCAA Women's Basketball](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_41)
+  - 2020/42 [🦖 The Datasaurus Dozen](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_42)
+  - 2020/43 [🍻 Great American Beer Festival](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_43)
+  - 2020/44 [🌬️ Canadian Wind Turbines](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_44)
 <!-- tocstop -->
 
 </details>
 
 ***
 
-### [Week 2020/15](https://github.com/Z3tt/TidyTuesday/tree/master/R/2020_14_BeerProduction.Rmd) 🚵 Tour de France via the [{tdf} data package](https://github.com/alastairrushworth/tdf)
+### [2020/43](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_43) 🍻 Great American Beer Festival by [GABF](https://www.greatamericanbeerfestival.com/the-competition/winners/)
+
+![./plots/2020_43/2020_43_AmericanBeerFestival.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_43/2020_43_AmericanBeerFestival.png)
+
+***
+
+### [2020/44](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_44) 🌬️ Canadian Wind Turbines by [Government of Canada](https://open.canada.ca/data/en/dataset/79fdad93-9025-49ad-ba16-c26d718cc070)
+
+![./plots/2020_44/2020_44_CanadianWindTurbines_h.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_44/2020_44_CanadianWindTurbines_h.png)
+
+***
+
+### [2020/42](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_42) 🦖 The Datasaurus Dozen by [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html)
+
+![./plots/2020_42/2020_42_Datasaurus.gif](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_42/2020_42_Datasaurus.gif)
+
+***
+
+### [2020/36](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_36) 🌾 Global Crop Yields by [Our World in Data](https://ourworldindata.org/crop-yields)
+
+🔗 Have a look at the [Shiny App in Action!]( https://cedric-scherer.shinyapps.io/TidyTuesday_2020_36_Crop_Yields/)
+
+![./plots/2020_36/2020_36_GlobalCropYields_preview.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_36/2020_36_GlobalCropYields_preview.png)
+
+***
+
+### [2020/41](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_41) 🏀 NCAA Women's Basketball by [FiveThirtyEight](https://fivethirtyeight.com/features/louisiana-tech-was-the-uconn-of-the-80s/)
+
+![./plots/2020_41/2020_41_NCAAWomensBasketball.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_41/2020_41_NCAAWomensBasketball.png)
+
+***
+
+### [2020/38](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_38) 💊 Children Public Health Efforts by [Urban Institute](https://datacatalog.urban.org/dataset/state-state-spending-kids-dataset)
+
+![./plots/2020_38/2020_38_KidSpendings.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_38/2020_38_KidSpendings.png)
+
+***
+
+### [2020/37](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_37) 👯 FRIENDS Transcripts by [Emil Hvitfeldt](https://github.com/EmilHvitfeldt/friends)
+
+![./plots/2020_37/2020_37_Friends.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_37/2020_37_Friends.png)
+
+***
+
+### [2020/34](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_34) 🌱 Extinct Plants by [IUCN Red List](https://www.iucnredlist.org/)
+
+![./plots/2020_34/2020_34_ExtinctPlants_3_legend_standalone_1.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_34/2020_34_ExtinctPlants_3_legend_standalone_1.png)
+![./plots/2020_34/2020_34_ExtinctPlants_1_poster_SouthAmerica_1.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_34/2020_34_ExtinctPlants_1_poster_NorthAmerica_1.png)
+
+***
+
+### [2020/33](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_33) ⚔️ Avatar: The Last Airbender by [{appa}](https://github.com/averyrobbins1/appa)
+
+![./plots/2020_31/2020_33/2020_33_AvatarLastAirbender.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_33/2020_33_AvatarLastAirbender.png)
+
+***
+
+### [2020/32](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_32) ⚡ European Energy by [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php/Electricity_generation_statistics_%E2%80%93_first_results)
+
+![./plots/2020_31/2020_32/2020_32_EuropeanEnergy.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_32/2020_32_EuropeanEnergy.png)
+
+***
+
+### [2020/31](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_31) 🐧 Palmer Penguins by [Gorman, Williams and Fraser (2014)](https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-pal.219.5)
+
+![./plots/2020_31/2020_31_PalmerPenguins.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_31/2020_31_PalmerPenguins.png)
+
+***
+
+### [2020/30](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_30) 😿 Australian Animal Outcomes by [RSPCA](https://www.rspca.org.au/sites/default/files/RSPCA%20Report%20on%20animal%20outcomes%202018-2019.pdf)
+
+![./plots/2020_30/2020_30_AnimalOutcomes.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_30/2020_30_AnimalOutcomes.png)
+
+***
+
+### [2020/29](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_29) 👨‍🚀 Astronaut Database by [Stavnichuk & Corlett (2020)](https://doi.org/10.17632/86tsnnbv2w.1)
+
+![./plots/2020_29/2020_29_Astronauts_blur_color.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_29/2020_29_Astronauts_blur_color.png)
+
+***
+
+### [2020/28](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_28) ☕️ Coffee Ratings by [Coffee Quality Institute](https://github.com/jldbc/coffee-quality-database)
+
+![./plots/2020_20/2028_28_CoffeeRatings.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_28/2020_28_CoffeeRatings.png)
+
+***
+
+### [2020/27](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_27) 🦸️ Uncanny X-Men by [Claremont Run Project](http://www.claremontrun.com/)
+
+![./plots/2020_27/2020_27_Xmen_annotated.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_27/2020_27_Xmen_annotated.png)
+
+***
+
+### [2020/26](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_26) 🦌️ Caribou Locations by [Movebank](https://www.movebank.org/cms/movebank-content/about-movebank)
+
+![./plots/2020_26/2020_26_Caribous_full_title.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_26/2020_26_Caribous_full_title.png)
+
+***
+
+### [2020/25](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_25) 🕊️ American Slavery and Juneteenth by [U.S. Census](https://www.census.gov/content/dam/Census/library/working-papers/2002/demo/POP-twps0056.pdf)
+
+![./plots/2020_25/2020_25_AmericanSlavery.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_25/2020_25_AmericanSlavery.png)
+
+***
+
+### [2020/23](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_23) 🔴 Marble Races by [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g)
+![./plots/2020_23/2020_23_MarbleRaces.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_23/2020_23_MarbleRaces.png)
+
+***
+
+### [Week 2020/22](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_22) 🍹 50 Most Popular Cocktails 2020 by [Drinks International](https://drinksint.com/news/fullstory.php/aid/8648/The_World_92s_Best-Selling_Classic_Cocktails_2020.html) & [Kaggle](https://bigtimestats.blog/data/)
+![./plots/2020_22/2020_22_Cocktails.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_22/2020_22_Cocktails.png)
+
+***
+
+### [Week 2020/21](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_21) 🏐 Beach Volleyball by [BigTimeStats](https://bigtimestats.blog/data/)
+![./plots/2020_21/2020_21_BeachVolleyball.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_21/2020_21_BeachVolleyball.png)
+
+***
+
+### [Week 2020/20](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_20) 🌋 Volcano Eruptions by [Smithsonian](https://www.himalayandatabase.com/)
+![./plots/2020_20/2020_20_Volcanoes_center2.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_20/2020_20_Volcanoes_center2.png)
+
+***
+
+### [Week 2020/19](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_19) 🐻 Animal Crossing by [Metacritic](https://www.metacritic.com/game/switch/animal-crossing-new-horizons/critic-reviews)
+![./plots/2020_19/2020_19_AnimalCrossing_alt_50.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_19/2020_19_AnimalCrossing_alt_50.png)
+![./plots/2020_19/2020_19_AnimalCrossing.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_19/2020_19_AnimalCrossing.png)
+
+***
+
+### [Week 2020/18](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_18) 🎭️ Broadway Musicals (RTFM Edition) by [Playbill](https://www.playbill.com/grosses)
+![./plots/2020_18/2020_18_BroadwayMusicals.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_18/2020_18_BroadwayMusicals.png)
+
+***
+
+### [Week 2020/16](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_16) 🎙️ Best Hip-Hop Songs of All Time by [BBC Music](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted)
+![./plots/2020_16/2020_16_BestRapArtists.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_16/2020_16_BestRapArtists.png)
+
+***
+
+### [Week 2020/15](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_15) 🚵 Tour de France via the [{tdf} data package](https://github.com/alastairrushworth/tdf)
 ![./plots/2020_15/2020_15_TourDeFrance.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_15/2020_15_TourDeFrance.png)
 
 ***
 
-### [Week 2020/14](https://github.com/Z3tt/TidyTuesday/tree/master/R/2020_14_BeerProduction.Rmd) 🍺 Beer Production by [TTB](https://www.ttb.gov/beer/statistics)
+### [Week 2020/14](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_14) 🍺 Beer Production by [TTB](https://www.ttb.gov/beer/statistics)
 ![./plots/2020_14/2020_14_BeerProduction_red.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_14/2020_14_BeerProduction_red.png)
 
 ***
 
-### [Week 2020/12](https://github.com/Z3tt/TidyTuesday/tree/master/R/2020_12_TheOffice.Rmd) 🏢 The Office by [IMDb via data.world](https://data.world/anujjain7/the-office-imdb-ratings-dataset)
+### [Week 2020/12](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_12) 🏢 The Office by [IMDb via data.world](https://data.world/anujjain7/the-office-imdb-ratings-dataset)
 ![./plots/2020_08/2020_12_TheOffice.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_12/2020_12_TheOffice.png)
 
 ***
@@ -122,7 +292,7 @@ Feedback is very welcome via [Twitter](https://twitter.com/cedscherer) or [mail]
 ***
 
 ### [Week 2019/38](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_38) 🏞️ US National Park Visits by [data.world](https://data.world/inform8n/us-national-parks-visitation-1904-2016-with-boundaries)
-![./plots/2019_38/2019_38_NationalParks.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_38/2019_38_NationalParks.png)
+![./plots/2019_38/2019_38_NationalParks.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_38/2019_38_NationalParks_teaser.png)
 
 ***
 
@@ -208,7 +378,7 @@ Feedback is very welcome via [Twitter](https://twitter.com/cedscherer) or [mail]
 
 ***
 
-### [Week 2019/24](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_24️) 🌠 Meteorites by [NASA](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data)
+### [Week 2019/24](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_24) 🌠 Meteorites by [NASA](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data)
 ![./plots/2019_24/2019_24_Meteorites.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_24/2019_24_Meteorites.png)
 
 ***
